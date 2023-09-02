@@ -1,18 +1,26 @@
 /**
  *
- * @author Your Name
+ * @author David Ndubuisi
  */
 
 public class HelloWorld {
 
     public static void main(String[] args) {
-        Class c1 = new Class1();
-        Class c2 = new Class2();
+        Class1 c1 = new Class1();
+        Class2 c2 = new Class2();
         System.out.println("Hello, World!");
     }
 
     private void f1() {
         // v1.0
+    }
+    
+    private void f2() {
+        // Add code for f2() here
+    }
+    
+    private void f3() {
+        // Add code for f3() here
     }
 
 }
